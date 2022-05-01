@@ -1,0 +1,28 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    padding: 0.5rem 1rem;
+    align-items: top; 
+}
+
+
+.channel_icon {
+    padding-top: 3px;
+}
+
+
+.channel_data {
+    text-align: left;
+    padding-left: 0.5rem;
+  }
+  
+  .channel_data h6 {
+    color: #2c292b;
+    font-weight: 600;
+  }   
+  
+  .channel_data p {
+    font-weight: 300;
+    font-size: 14px;
+  } 
+

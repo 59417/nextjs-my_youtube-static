@@ -1,0 +1,23 @@
+.top {
+    cursor: pointer;
+}
+
+.top :hover {
+    background-color: rgb(238, 235, 235);
+}
+
+.container {
+    display: flex;
+    padding: 1rem 1.5rem;
+    width: 200px
+    }
+
+    .icon {
+        align-items: center;        
+    }
+
+    .container span {
+        align-items: center;
+        padding-left: 1rem
+    }
+
